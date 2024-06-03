@@ -25,5 +25,5 @@ This is an exercise I completed refreshing the fundamentals of ReactJS props and
 
    # Version 1 Images
 
-   ![ezcv logo]
+   ![ezcv logo](https://github.com/LemuelBenitez/React_Props_ContactList/blob/main/Screenshot%202024-06-03%20at%206.20.24%E2%80%AFPM.png)
 
